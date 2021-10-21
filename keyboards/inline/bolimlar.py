@@ -16,6 +16,9 @@ bolim_tugmalar=InlineKeyboardMarkup(
             InlineKeyboardButton(text= '🍽 Kichik oshxona jixozlari 🍴', url = 'https://t.me/real_kredit_MBT')
         ],
         [
+            InlineKeyboardButton(text = '🚲 Velosipedlar 🏍', url = 'https://t.me/real_kredit_kir_yuvis_mashinalar')
+        ],
+        [
             InlineKeyboardButton(text = "👑 Shoxona mebellar 👑", url = "https://t.me/real_kredit_mebellar" )
         ],
         [
