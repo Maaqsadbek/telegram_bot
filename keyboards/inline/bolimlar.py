@@ -17,8 +17,8 @@ bolim_tugmalar=InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(text = '🚲 Velosiped va skuterlar 🏍', url = 'https://t.me/real_kredit_velosipedlar'),
-            InlineKeyboardButton(text = '🦠 Changyutkichlar 🦠', url = 'https://t.me/real_kredit_velosipedlar'),
-            InlineKeyboardButton(text = '🛁 Aristonlar 🚿', url = 'https://t.me/real_kredit_velosipedlar')
+            InlineKeyboardButton(text = '🦠 Changyutkichlar 🦠', url = 'https://t.me/real_kredit_changyutkichlar'),
+            InlineKeyboardButton(text = '🛁 Aristonlar 🚿', url = 'https://t.me/aristonlar')
 
         ],
         [
