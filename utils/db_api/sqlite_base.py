@@ -71,6 +71,7 @@ class Database:
         sql=f"""
         UPDATE Users SET email=? WHERE id=?
         """
+
         return self.execute(sql, parameters=(email, id), commit=True)
 
     def delete_users(self, **kwargs):
